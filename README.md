@@ -57,7 +57,7 @@ Here are some of my notable open-source contributions:
 ### 📫 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/ajetunmobi-isaac/)
-- [Twitter](your-twitter-profile)
+- [Twitter](https://twitter.com/Nerd_Stack)
 - [Medium](https://medium.com/@isaacajetunmobi)
 - [Dev.to](https://dev.to/nerdstack)
 
