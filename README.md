@@ -53,6 +53,7 @@ Here are some of my notable open-source contributions:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=inerdstack&show_icons=true&theme=radical)
 -->
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iNerdStack&theme=tokyonight" alt="GitHub Streak" />
 
 ### 📫 Let's Connect!
 
