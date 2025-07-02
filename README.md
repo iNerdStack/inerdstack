@@ -20,7 +20,7 @@ I'm a Software engineer with a love for creating robust, efficient, and user-fri
 
 ### 🚀 Tech Stack
 
-- Frontend: React, Vue.js, Nuxt
+- Frontend: Vue.js, Nuxt, React.js
 - Backend: Node.js, Go, Rust, PHP
 - Mobile: React Native
 
@@ -53,7 +53,6 @@ Here are some of my notable open-source contributions:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=inerdstack&show_icons=true&theme=radical)
 -->
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=iNerdStack&theme=tokyonight" alt="GitHub Streak" />
 
 ### 📫 Let's Connect!
 
